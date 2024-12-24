@@ -1,3 +1,5 @@
+from cryptography.fernet import Fernet
+
 master_p=input("Enter your masterpassword:")
 print("View/Add")
 
